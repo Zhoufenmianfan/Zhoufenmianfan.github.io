@@ -6,3 +6,6 @@ http://example.com/tags/SteamCMD/
 http://example.com/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/
 http://example.com/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Linux/
 http://example.com/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/steam/
+http://example.com/categories/Tech/
+http://example.com/categories/Tech/Linux/
+http://example.com/categories/Tech/steam/
