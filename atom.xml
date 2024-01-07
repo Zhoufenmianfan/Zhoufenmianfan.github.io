@@ -3,11 +3,11 @@
   <title>Sidian</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zhoufenmianfan.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zhoufenmianfan.github.io/"/>
   <updated>2024-01-06T11:53:05.516Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zhoufenmianfan.github.io/</id>
   
   <author>
     <name>Steve</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Linux饥荒服务器搭建教程</title>
-    <link href="http://example.com/2024/01/06/Linux%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
-    <id>http://example.com/2024/01/06/Linux%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
+    <link href="https://zhoufenmianfan.github.io/2024/01/06/Linux%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/"/>
+    <id>https://zhoufenmianfan.github.io/2024/01/06/Linux%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</id>
     <published>2024-01-06T10:14:52.000Z</published>
     <updated>2024-01-06T11:53:05.516Z</updated>
     
@@ -30,21 +30,21 @@
     
     
     
-    <category term="Tech" scheme="http://example.com/categories/Tech/"/>
+    <category term="Tech" scheme="https://zhoufenmianfan.github.io/categories/Tech/"/>
     
-    <category term="Linux" scheme="http://example.com/categories/Tech/Linux/"/>
+    <category term="Linux" scheme="https://zhoufenmianfan.github.io/categories/Tech/Linux/"/>
     
-    <category term="steam" scheme="http://example.com/categories/Tech/steam/"/>
+    <category term="steam" scheme="https://zhoufenmianfan.github.io/categories/Tech/steam/"/>
     
     
-    <category term="SteamCMD" scheme="http://example.com/tags/SteamCMD/"/>
+    <category term="SteamCMD" scheme="https://zhoufenmianfan.github.io/tags/SteamCMD/"/>
     
   </entry>
   
   <entry>
     <title>饥荒服务器自动更新教程</title>
-    <link href="http://example.com/2024/01/06/%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%99%E7%A8%8B/"/>
-    <id>http://example.com/2024/01/06/%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%99%E7%A8%8B/</id>
+    <link href="https://zhoufenmianfan.github.io/2024/01/06/%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%99%E7%A8%8B/"/>
+    <id>https://zhoufenmianfan.github.io/2024/01/06/%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%99%E7%A8%8B/</id>
     <published>2024-01-06T10:00:54.000Z</published>
     <updated>2024-01-06T11:53:16.622Z</updated>
     
@@ -55,14 +55,14 @@
     
     
     
-    <category term="Tech" scheme="http://example.com/categories/Tech/"/>
+    <category term="Tech" scheme="https://zhoufenmianfan.github.io/categories/Tech/"/>
     
-    <category term="Linux" scheme="http://example.com/categories/Tech/Linux/"/>
+    <category term="Linux" scheme="https://zhoufenmianfan.github.io/categories/Tech/Linux/"/>
     
-    <category term="steam" scheme="http://example.com/categories/Tech/steam/"/>
+    <category term="steam" scheme="https://zhoufenmianfan.github.io/categories/Tech/steam/"/>
     
     
-    <category term="SteamCMD" scheme="http://example.com/tags/SteamCMD/"/>
+    <category term="SteamCMD" scheme="https://zhoufenmianfan.github.io/tags/SteamCMD/"/>
     
   </entry>
   
