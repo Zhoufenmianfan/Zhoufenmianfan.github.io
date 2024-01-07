@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4401953 */
+  src: url('iconfont.woff2?t=1704608017645') format('woff2'),
+       url('iconfont.woff?t=1704608017645') format('woff'),
+       url('iconfont.ttf?t=1704608017645') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 18px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icons-minecraft_ske:before {
+  content: "\efbe";
+}
+
+.icon-icons-minecraft_sho:before {
+  content: "\efce";
+}
+
+.icon-icons-minecraft_axe:before {
+  content: "\f020";
+}
+
+.icon-icons-minecraft_zom:before {
+  content: "\f065";
+}
+
+.icon-minecraft_creeper:before {
+  content: "\eca6";
+}
+
+.icon-minecraft_sword:before {
+  content: "\f0a8";
+}
+
+.icon-icons-minecraft_log:before {
+  content: "\ec71";
+}
+
+.icon-icons-minecraft_pic:before {
+  content: "\ed9e";
+}
+
+.icon-icons-minecraft_swo:before {
+  content: "\edcc";
+}
+
+.icon-icons-minecraft_mai:before {
+  content: "\eec8";
+}
+
