@@ -618,6 +618,72 @@ input {
     border-left-width: var(--banner-empty-border-size, var(--banner-char-size));
   }
 }
+.book-items {
+  display: flex;
+  padding: 0 0.5rem;
+  text-align: center;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.book-item {
+  display: inline-flex;
+}
+.book-url {
+  display: inline-flex;
+  text-align: center;
+  justify-self: center;
+  line-height: 1.5;
+  padding: 0.5rem 1rem;
+  margin: 0.5rem;
+  width: 21rem;
+  height: 14.8rem;
+  transition: 0.2s;
+  color: var(--primary-color, #000);
+  border: 1px solid var(--primary-color, #808080);
+}
+.book-url:hover {
+  color: #fff;
+  background-color: var(--primary-color, #808080);
+  box-shadow: 0 2px 20px var(--primary-color, #808080);
+}
+@media screen and (max-width: 768px) {
+  .book-url {
+    display: flex;
+  }
+}
+.book-url .book-left {
+  display: inline-block;
+  line-height: 0;
+}
+.book-url .book-avatar {
+  width: 10rem;
+  height: 14.1rem;
+  border-radius: 0%;
+  background-color: #fff;
+  border: 1px solid var(--primary-color, #808080);
+  transition: 0.5s;
+}
+.book-url .book-avatar:hover {
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
+.book-url .book-info {
+  padding-left: 0.6rem;
+}
+.book-url .book-blog {
+  font-family: 'Songti SC', 'Noto Serif SC', STZhongsong, STKaiti, KaiTi, Roboto, serif;
+  font-weight: 900;
+  margin: 0.42rem 0;
+  color: #d13691;
+}
+.book-url .book-desc {
+  font-size: 0.8rem;
+  margin-top: 0.5rem;
+  width: 10.5rem;
+  height: 12.1rem;
+  white-space: normal;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
 #footer {
   font-size: 0.9rem;
   color: var(--hty-secondary-text-color);

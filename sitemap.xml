@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhoufenmianfan.github.io/books/index.html</loc>
+    
+    <lastmod>2024-01-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhoufenmianfan.github.io/albums/index.html</loc>
     
     <lastmod>2024-01-08</lastmod>
@@ -83,7 +92,16 @@
   </url>
   
   <url>
-    <loc>https://zhoufenmianfan.github.io/albums/sunset.html</loc>
+    <loc>https://zhoufenmianfan.github.io/albums/dragonball.html</loc>
+    
+    <lastmod>2020-04-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhoufenmianfan.github.io/albums/minecraft.html</loc>
     
     <lastmod>2020-04-18</lastmod>
     
