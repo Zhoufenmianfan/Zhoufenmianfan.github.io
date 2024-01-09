@@ -2,6 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://zhoufenmianfan.github.io/tags/index.html</loc>
+    
+    <lastmod>2024-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhoufenmianfan.github.io/categories/index.html</loc>
+    
+    <lastmod>2024-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhoufenmianfan.github.io/2024/01/06/%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2024-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhoufenmianfan.github.io/2024/01/06/Linux%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
+    
+    <lastmod>2024-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhoufenmianfan.github.io/2024/01/07/English%E8%AF%8D%E7%B4%A0%E6%9E%84%E8%AF%8D%E7%90%86%E8%AE%BA/</loc>
+    
+    <lastmod>2024-01-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://zhoufenmianfan.github.io/books/index.html</loc>
     
     <lastmod>2024-01-08</lastmod>
@@ -29,24 +74,6 @@
   </url>
   
   <url>
-    <loc>https://zhoufenmianfan.github.io/categories/index.html</loc>
-    
-    <lastmod>2024-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhoufenmianfan.github.io/tags/index.html</loc>
-    
-    <lastmod>2024-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://zhoufenmianfan.github.io/2024/01/08/test/</loc>
     
     <lastmod>2024-01-08</lastmod>
@@ -57,24 +84,6 @@
   
   <url>
     <loc>https://zhoufenmianfan.github.io/about/index.html</loc>
-    
-    <lastmod>2024-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhoufenmianfan.github.io/2024/01/06/Linux%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E6%95%99%E7%A8%8B/</loc>
-    
-    <lastmod>2024-01-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhoufenmianfan.github.io/2024/01/06/%E9%A5%A5%E8%8D%92%E6%9C%8D%E5%8A%A1%E5%99%A8%E8%87%AA%E5%8A%A8%E6%9B%B4%E6%96%B0%E6%95%99%E7%A8%8B/</loc>
     
     <lastmod>2024-01-08</lastmod>
     
@@ -112,7 +121,7 @@
 
   <url>
     <loc>https://zhoufenmianfan.github.io/</loc>
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-01-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -120,21 +129,28 @@
   
   <url>
     <loc>https://zhoufenmianfan.github.io/tags/SteamCMD/</loc>
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zhoufenmianfan.github.io/tags/Linux/</loc>
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://zhoufenmianfan.github.io/tags/Game/</loc>
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhoufenmianfan.github.io/tags/English/</loc>
+    <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -143,7 +159,14 @@
   
   <url>
     <loc>https://zhoufenmianfan.github.io/categories/Tech/</loc>
-    <lastmod>2024-01-08</lastmod>
+    <lastmod>2024-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhoufenmianfan.github.io/categories/Know/</loc>
+    <lastmod>2024-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
