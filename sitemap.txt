@@ -22,10 +22,10 @@ https://zhoufenmianfan.github.io/
 https://zhoufenmianfan.github.io/tags/SteamCMD/
 https://zhoufenmianfan.github.io/tags/Linux/
 https://zhoufenmianfan.github.io/tags/Game/
-https://zhoufenmianfan.github.io/tags/Computer/
-https://zhoufenmianfan.github.io/tags/English/
 https://zhoufenmianfan.github.io/tags/Minecraft/
+https://zhoufenmianfan.github.io/tags/Computer/
 https://zhoufenmianfan.github.io/tags/Git/
+https://zhoufenmianfan.github.io/tags/English/
 https://zhoufenmianfan.github.io/tags/Math/
 https://zhoufenmianfan.github.io/categories/Tech/
 https://zhoufenmianfan.github.io/categories/Know/
