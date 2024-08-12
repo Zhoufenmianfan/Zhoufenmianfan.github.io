@@ -6,7 +6,7 @@
   <link href="https://zhoufenmianfan.github.io/atom.xml" rel="self"/>
   
   <link href="https://zhoufenmianfan.github.io/"/>
-  <updated>2024-06-15T08:15:46.871Z</updated>
+  <updated>2024-08-12T06:22:29.486Z</updated>
   <id>https://zhoufenmianfan.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Obsidian 发布文章</title>
+    <link href="https://zhoufenmianfan.github.io/2024/08/12/Blog-2024-08-12-1143/"/>
+    <id>https://zhoufenmianfan.github.io/2024/08/12/Blog-2024-08-12-1143/</id>
+    <published>2024-08-12T10:14:52.000Z</published>
+    <updated>2024-08-12T06:22:29.486Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="使用Obsidian-发布文章"><a href="#使用Obsidian-发布文章" class="headerlink" title="使用Obsidian 发布文章"></a>使用Obsidian 发布文章</h2>]]></content>
+    
+    
+    <summary type="html">测试Hexo部署服务</summary>
+    
+    
+    
+    <category term="Tech" scheme="https://zhoufenmianfan.github.io/categories/Tech/"/>
+    
+    
+    <category term="Linux" scheme="https://zhoufenmianfan.github.io/tags/Linux/"/>
+    
+  </entry>
   
   <entry>
     <title>「知识物料」非等长进制数</title>
@@ -128,19 +149,6 @@
     
     
     <category term="Minecraft" scheme="https://zhoufenmianfan.github.io/tags/Minecraft/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Bilibili视频发布</title>
-    <link href="https://zhoufenmianfan.github.io/2024/01/08/test/"/>
-    <id>https://zhoufenmianfan.github.io/2024/01/08/test/</id>
-    <published>2024-01-08T12:19:58.466Z</published>
-    <updated>2024-08-12T06:51:34.000Z</updated>
-    
-    
-    
-    
     
   </entry>
   
